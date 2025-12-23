@@ -37,12 +37,13 @@ The notebook uses standard scientific Python packages:
 - Matplotlib
 - Jupyter / Google Colab
 
+## Citation
+If you use this code, please cite the BNOT paper (arXiv:2510.13110).
+
 Install with:
 
 ```bash
 pip install numpy scipy matplotlib jupyter
 
 
-## Citation
 
-If you use this code, please cite the BNOT paper (arXiv:2510.13110).
